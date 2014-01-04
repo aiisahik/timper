@@ -1,0 +1,16 @@
+{
+    "name": "limper-app",
+    "description": "hello world test app",
+    "main": "app.js",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "express": "3.x",
+        "redis": "*",
+        "mongoose":"*"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/jane-doe/node-example.git"
+    },
+}
